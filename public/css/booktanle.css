@@ -1,0 +1,16 @@
+.item {
+    background-color: #242121;
+
+}
+
+i {
+    color: white;
+}
+
+.checkout{
+    text-decoration: none;
+    background-color: rgb(240, 83, 69);
+    padding: 4px 10px;
+    color: white;
+    border-radius: 500px;
+}
