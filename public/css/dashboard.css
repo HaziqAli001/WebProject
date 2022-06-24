@@ -1,0 +1,13 @@
+.tab {
+    overflow: hidden;
+  }
+.tab button {
+    cursor: pointer !important;
+  }
+  
+.tab button:hover {
+    background-color: #ddd;
+}
+a{
+  text-decoration: none !important;
+}

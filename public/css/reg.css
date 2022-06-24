@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 47rem;
+}
+
+.backtext{
+    font-size: 20rem;
+    color: azure;
+    position: absolute;
+    left: 10%;
+    
+}
+
+.signin{
+    text-decoration: none;
+    background-color: rgb(240, 83, 69);
+    padding: 4px 10px;
+    color: white;
+    border-radius: 500px;
+    
+}
